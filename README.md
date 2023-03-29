@@ -1,11 +1,5 @@
 <h1> Hi, my name is Hugo 😁 </h1>
 
-+ 🔥 Studying for Web Developer & Graphic Designer
-
-+ 🔭 I’m currently working as Freelancer
-
-+ 👨‍💻 Front-end Developer
-
-+ ⚡ Working with JavaScript, HTML and CSS.
-
+### That is my first project posted on my GitHub.
+### In this project i realize the idea of DevMedia.
 
